@@ -1,3 +1,9 @@
+
+### TALLER BASE DE DATOS Y NODE JS 3229209
+### ANDRES FELIPE ALVALREZ RESTREPO
+### SEBASTIAN MONSALVE RAMOS
+
+
 ### Diccionario de Datos
 
 #### Tabla `estudiantes`
