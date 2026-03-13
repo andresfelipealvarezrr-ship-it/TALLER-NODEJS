@@ -3,6 +3,28 @@
 ### ANDRES FELIPE ALVALREZ RESTREPO
 ### SEBASTIAN MONSALVE RAMOS
 
+## URL DE LA API REST EN PRODUCCION https://taller-nodejs.onrender.com/
+
+# TODOS LOS ENDPOINTS REQUIEREN EL HEADER
+API_PASSWORD = hola1234
+
+### ENDPOINTS
+
+# GET 
+https://taller-nodejs.onrender.com/estudiantes -LISTADO DE TODOS (SOPORTA FILTRO POR QUERY)
+# GET ID
+https://taller-nodejs.onrender.com/estudiantes/1 -BUSCAR POR ID
+# POST
+https://taller-nodejs.onrender.com/estudiantes -CREAR UNO NUEVO
+# PUT 
+https://taller-nodejs.onrender.com/estudiantes/1 -ACTUALIZAR 
+# DELETE 
+https://taller-nodejs.onrender.com/estudiantes/1 -ELIMINAR 
+
+
+
+
+
 
 ### Diccionario de Datos
 
